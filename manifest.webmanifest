@@ -1,0 +1,17 @@
+{
+  "name": "Territorios Señas Centro",
+  "short_name": "Territorios",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0e6e5c",
+  "theme_color": "#0e6e5c",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
